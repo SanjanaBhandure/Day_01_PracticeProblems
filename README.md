@@ -1,5 +1,5 @@
 # Day_01_PracticeProblems
-1.1 Write a program to display any message:
+1.1 Write a program to display any message
 1.2 Write a Java program to display the default value of all primitive data types of Java
 1.3 Write a program to check two strings are equal or not. 
 1.4 To find the sum of command-line arguments and count the invalid integers entered.
